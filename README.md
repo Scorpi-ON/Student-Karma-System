@@ -48,3 +48,13 @@
 <img width=50% src="https://github.com/user-attachments/assets/100c6009-c9c3-4f94-ac09-f33e611ed6c8" />
 <img width=50% src="https://github.com/user-attachments/assets/a7adc974-8432-4337-9794-f4eb3c25b434" />
 </details>
+
+<details>
+<summary><h2>Скринщоты таблицы</h2></summary>
+
+<img width=50% src="https://github.com/user-attachments/assets/a1ce4be6-04e7-4c54-ab78-ecbbbaa7c422" />
+<img width=50% src="https://github.com/user-attachments/assets/ca123a37-bc0b-4159-9ad4-3d83f295c139" />
+<img width=50% src="https://github.com/user-attachments/assets/ac4faa3b-be71-4409-8e0c-1ad79f1ec1e5" />
+<img width=50% src="https://github.com/user-attachments/assets/a579e7a6-d575-4690-adfa-4138952e2489" />
+
+</details>
