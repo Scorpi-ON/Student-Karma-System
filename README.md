@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary><h2>Скринщоты таблицы</h2></summary>
+<summary><h2>Скриншоты таблицы</h2></summary>
 
 <img width=50% src="https://github.com/user-attachments/assets/a1ce4be6-04e7-4c54-ab78-ecbbbaa7c422" />
 <img width=50% src="https://github.com/user-attachments/assets/ca123a37-bc0b-4159-9ad4-3d83f295c139" />
